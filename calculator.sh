@@ -17,7 +17,7 @@ do
 			read num1
 			echo -n "Enter Second number: "
 			read num2
-			echo "$num1 + num2 = $(($num1 + $num2))"
+			echo "$num1 + $num2 = $(($num1 + $num2))"
 			;;
 
 		2)
